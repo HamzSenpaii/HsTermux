@@ -1,4 +1,10 @@
 # Default OMZ theme for Archcraft
+# Credit:
+# Forked from:
+# https://github.com/mayTermux/myTermux
+#
+# Modified by HamzSenpaii
+# https://github.com/HamzSenpaii
 
 if [[ "$USER" == "root" ]]; then
   PROMPT="%(?:%{$fg_bold[red]%}%{$fg_bold[green]%}%{$fg_bold[yellow]%} :%{$fg_bold[red]%} )"
