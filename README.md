@@ -92,7 +92,7 @@ Special thanks to all open-source assets, themes, and tools used in this project
 
 ## Author
 
-Created with ❤️ by **HamzSenpaii**
+Created with by **HamzSenpaii**
 
 GitHub:
 https://github.com/HamzSenpaii
