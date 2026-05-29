@@ -1,5 +1,5 @@
 # HsTermux
-**HsTermux** adalah script yang digunakan untuk mengubah tampilan termux secara simple dan mudah
+**HsTermux** adalah script yang digunakan untuk mengubah tampilan termux
 
 ## Installation Script
 
